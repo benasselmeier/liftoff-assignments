@@ -13,18 +13,19 @@ My application will aim to offer employees and staff of the recreation center an
 
 ### Features
 Member login:
-Recreation center members will need to log in using their member ID number for the recreation center. Non-members won’t be able to view the list of available equipment.
-
-Search:
-Members will be able to search for equipment by category, type, or by entering a search term in a text box.
+As a member, I'll need my member ID number to log in and view the equipment catalog.
 
 Admin/Employee login:
-Administrators or employees will be able to log in using their employee credentials. This will be a separate functionality from the member login, and will allow employees to make changes to the catalog.
+As an admin or employee, I'll be able to log in using my credentials separately from members to perform administrative action like catalog management and messaging members.
 
-An idea that I have for this is to require employee logins to also come from a specific IP address, meaning it can only be accessed on-site. The goal of this would be to prevent unauthorized modifications or use outside of the facility. I’m not sure how practical that would be, though.
+(An idea that I have for this is to require employee logins to also come from a specific IP address, meaning it can only be accessed on-site. The goal of this would be to prevent unauthorized modifications or use outside of the facility. I’m not sure how practical that would be, though.)
+
+Search:
+As a member, I'll be able to search for equipment by category, type, or by entering a search term.
+As an administrator, I'll be able to search for items, catalogs, and users by entering search terms.
 
 Text messaging:
-I plan to implement text messaging through Twilio. When a user rents equipment, they’ll receive a text message (if opted in) reminding them when it’s due to be returned. Additionally, if a user wishes to rent equipment that’s currently unavailable, they can opt in to be notified when it’s available for them.
+As an administrator, I'll be able to send text messages to members through Twilio. When a member rents equipment, they'll receive a text message (if opted in) reminding them of when it's due to be returned. Additionally, if a member wishes to rent equipment that's currently unavailable, they can opt in to be notified when it's available for them.
 
 
 ### Technologies
