@@ -8,8 +8,28 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+Link to PDF: https://drive.google.com/file/d/1O4W4qJZFvSVoyVzvsdK1FBWjpM6NsGm0/view?usp=sharing
+(*If the PDF doesn't work I can upload them to imgur*)
+
+* Home/Overview Page:
+  * I see a list of my current rentals at a glance and can click to view more details and manage my rentals.
+  * I can search the catalog of equipment using radio buttons to select any specific search terms. "All" is selected by default.
+
+* User Overview Page:
+  * I'm greeted and can see my name, as well as see (and change) my picture.
+  * I see a list of all my rentals, which is scrollable and also shows the required return date of each. (*I wrote "return rate" on the page whoopsie*)
+
+* Equipment List Page
+  * I can browse through a scrollable list of all the equipment.
+  * I can use the options on the left to change the view of equipment
+  * I can go to an item's page and view its properties
+
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://trello.com/b/kwOvDlpf/capstone-project
+
+
+### Github Repository
+
+https://github.com/benasselmeier/redhawk-rentals
